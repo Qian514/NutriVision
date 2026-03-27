@@ -36,3 +36,6 @@ test_qwen_vl.py
 test.py
 generate_coin_data.py
 generate_coin_data_fixed.py
+
+# 营养数据
+json_data/
