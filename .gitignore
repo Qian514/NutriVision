@@ -30,3 +30,9 @@ __pycache__/
 
 # 系统文件
 .DS_Store
+
+# 无关文件
+test_qwen_vl.py
+test.py
+generate_coin_data.py
+generate_coin_data_fixed.py
