@@ -1,0 +1,33 @@
+# 环境变量与密钥
+.env
+*.key
+
+# 模型权重（体积大，不入库）
+weights/
+*.pth
+*.pt
+
+# 数据集
+Data/
+coin_training_data/
+
+# 输出结果
+out/
+crops_debug/
+*.jpg
+*.png
+*.json
+!data/nutrition_db.json
+!data/recipe_db.json
+
+# YOLO 训练产物
+coin_yolo/runs/
+coin_yolo/dataset/
+
+# Python 缓存
+__pycache__/
+*.pyc
+*.pyo
+
+# 系统文件
+.DS_Store
