@@ -21,8 +21,7 @@ crops_debug/
 !data/recipe_db.json
 
 # YOLO 训练产物
-coin_yolo/runs/
-coin_yolo/dataset/
+coin_yolo/
 
 # Python 缓存
 __pycache__/

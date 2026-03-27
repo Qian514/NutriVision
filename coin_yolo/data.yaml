@@ -1,6 +1,0 @@
-names:
-- coin
-nc: 1
-path: /Users/qian/Documents/Code/Python/Nutrition/coin_yolo/dataset
-train: images/train
-val: images/val
